@@ -1,11 +1,13 @@
 # Getting started
 
+- Authors: Bhathiya Perera
+
 ## Setting things up
 ### Downloading
 
 1. Head to [releases](https://github.com/YakshaLang/Yaksha/releases)
-2. Pick an archive format you like .7z or .zip (both has same content and .7z is almost alwasy likely to be smaller in size)
-3. Since this is a new language we recommend you always download latest version.
+2. Pick an archive format you like `.7z` or `.zip` (both has same content and `.7z` is almost alwasy likely to be smaller in size)
+3. Since this is a new language we recommend you always download latest version. Please expect things to not work.
 
 ### Installing
 
